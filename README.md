@@ -1,7 +1,6 @@
 # kmstest-2024
 testing 
 
-Found ninja-1.10.1 at /usr/bin/ninja
 root@inhnjlux0031:/home/gadibasa/Desktop/KMS/kmstest-2024/kmsxx# ninja -C build
 ninja: Entering directory `build'
 [4/4] Linking target kmstest
